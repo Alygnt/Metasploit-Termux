@@ -20,6 +20,8 @@
 <a href="https://github.com/rdxlr"><img title="Issues" src="https://img.shields.io/github/issues/rdxlr/nphisher?color=red&style=flat-square"></a>
 <a href="https://github.com/rdxlr"><img title="Watching" src="https://img.shields.io/github/watchers/rdxlr/nphisher?label=Watchers&color=blue&style=flat-square"></a>
 </p>
+
+## METASPLOIT 6 INSTALLATION:
 * `cd $HOME`
 * `wget https://raw.githubusercontent.com/rdxlr/Metasploit-Termux/main/metasploit6-termux.sh -q`
 * `bash metasploit6-termux.sh`
