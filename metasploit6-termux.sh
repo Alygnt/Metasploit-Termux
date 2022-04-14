@@ -13,13 +13,13 @@ White='\033[0;37m'
 
 
 clear
-echo -e " "
+echo -e " 
       SCRIPT EDITED BY RDXLR
-                  ${Green}[ ${Yellow}github.com/rdxlr${clear} ${Green}]${clear}
+                  ${Green}[ ${Yellow}github.com/rdxlr${clear} ${Green}]${clear}"
 echo
 sleep 1
 echo -e "[${Yellow}+${clear}] Setting up terminal"
-pkg update;pkg upgrade
+pkg update -y;pkg upgrade -y
 echo
 echo -e "[${Yellow}+${clear}] Termux updated..."
 echo -e "[${Yellow}+${clear}] Please wait..."
@@ -36,7 +36,7 @@ echo
 echo -e "[${Yellow}+${clear}] Check for permissions...."
 if [ -x "metasploit6-termux.sh" ];
         then
-        continue
+        echo ""
 else
         chmod 777 metasploit6-termux.sh
 fi
@@ -44,6 +44,7 @@ fi
 
 echo
 echo -e "[${Yellow}+${clear}]Dependencies wget, curl, zip tar, etc..."
+apt install Ruby -y
 apt purge ruby -y
 rm -rf $PREFIX/lib/ruby
 pkg upgrade -y -o Dpkg::Options::="--force-confnew"
