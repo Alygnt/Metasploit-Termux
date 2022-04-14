@@ -19,7 +19,7 @@ echo -e "
 echo
 sleep 1
 echo -e "[${Yellow}+${clear}] Setting up terminal"
-pkg update -y;pkg upgrade -y; pkg install ruby -y
+pkg update -y;pkg upgrade -y; apt install --reinstall ruby -y; apt install --reinstall ruby2 -y;
 echo
 echo -e "[${Yellow}+${clear}] Termux updated..."
 echo -e "[${Yellow}+${clear}] Please wait..."
