@@ -5,6 +5,10 @@
 </p>
 
 <p align="center">
+<img src="https://raw.githubusercontent.com/RDXLR/Metasploit-Termux/main/Metapsloit-Termux-poster.png">
+</p>
+
+<p align="center">
 <a href="https://github.com/RDXLR/Metasploit-Termux"><img title="Version" src="https://img.shields.io/badge/Version-1.0-green.svg"></a>
 <a href="https://github.com/RDXLR/Metasploit-Termux"><img title="Maintainence" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>
 </p>
@@ -15,10 +19,10 @@
 
 <p align="center">
 <a href="https://github.com/rdxlr"><img title="Followers" src="https://img.shields.io/github/followers/rdxlr?color=blue&style=flat-square"></a>
-<a href="https://github.com/rdxlr"><img title="Stars" src="https://img.shields.io/github/stars/rdxlr/Metasploit-Termux?color=red&style=flat-square"></a>
-<a href="https://github.com/rdxlr"><img title="Forks" src="https://img.shields.io/github/forks/rdxlr/Metasploit-Termux?color=red&style=flat-square"></a>
-<a href="https://github.com/rdxlr"><img title="Issues" src="https://img.shields.io/github/issues/rdxlr/Metasploit-Termux?color=red&style=flat-square"></a>
-<a href="https://github.com/rdxlr"><img title="Watching" src="https://img.shields.io/github/watchers/rdxlr/Metasploit-Termux?label=Watchers&color=blue&style=flat-square"></a>
+<a href="https://github.com/rdxlr/Metasploit-Termux""><img title="Stars" src="https://img.shields.io/github/stars/rdxlr/Metasploit-Termux?color=red&style=flat-square"></a>
+<a href="https://github.com/rdxlr/Metasploit-Termux""><img title="Forks" src="https://img.shields.io/github/forks/rdxlr/Metasploit-Termux?color=red&style=flat-square"></a>
+<a href="https://github.com/rdxlr/Metasploit-Termux""><img title="Issues" src="https://img.shields.io/github/issues/rdxlr/Metasploit-Termux?color=red&style=flat-square"></a>
+<a href="https://github.com/rdxlr/Metasploit-Termux""><img title="Watching" src="https://img.shields.io/github/watchers/rdxlr/Metasploit-Termux?label=Watchers&color=red&style=flat-square"></a>
 </p>
 
 ## METASPLOIT 6 INSTALLATION:
