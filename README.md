@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/RDXLR/Metasploit-Termux/main/Metapsloit-Termux-poster.png">
+<img src="https://raw.githubusercontent.com/RDXLR/Metasploit-Termux/main/Metasploit-Termux-poster.png">
 </p>
 
 <p align="center">
